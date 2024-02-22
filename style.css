@@ -1,0 +1,11 @@
+body{background-color:violet;}
+h1{
+  color:graytext;
+  font-family:calibri;
+  font-size:40px;
+}
+p{
+  color:yellow;
+  dont-size:25px;
+}
+.a{color:red;}
