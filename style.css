@@ -6,6 +6,6 @@ h1{
 }
 p{
   color:yellow;
-  dont-size:25px;
+  font-size:25px;
 }
-.a{color:red;}
+.a{font-size:100px;}
